@@ -7,16 +7,21 @@
 🔗 **Deployed Application**: [BitMaxAI Staking App](https://staking-full-stack-dapp-qfby.vercel.app/)
 
 ---
-
-**##Project flow**
-
+## **Youtube Video** : 
 ---
 
-## Youtube Video : 
-
----
-
+**##Project flow** :
+ 
 ![image](https://github.com/user-attachments/assets/b35651af-9839-4915-b2a1-031d18869fa7)
+
+
+---
+
+**##Smart Contract Flow** :
+
+![image](https://github.com/user-attachments/assets/beba4cfa-240d-49d0-9fb0-1b66e786b8dd)
+
+---
 
 ## 🛠 Tech Stack
 
